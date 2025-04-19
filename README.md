@@ -2,14 +2,14 @@
 
 <h2>👨‍💻 Blue team projects:</h2>
 
-- <b> Setting up Sentinel SIEM </b>
-  - [Microsoft Sentinel Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Setting up Sentinel SIEM Honeypot </b>
+  - [Microsoft Sentinel Honeypot](https://github.com/TacticianTierney/MicrosoftSentinelLab)
 
 <h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="LucasTierney | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="LucasTierney | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 
